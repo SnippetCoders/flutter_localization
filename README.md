@@ -1,6 +1,6 @@
 # flutter_localization
 
-A new Flutter project.
+This snippet code is regarding how to use Localization in Flutter.
 
 ## Getting Started
 
